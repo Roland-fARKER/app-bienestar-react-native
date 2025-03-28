@@ -35,7 +35,7 @@ export default function ExerciseScreen() {
       duration: "25 min",
       level: "Intermedio",
       category: "cardio",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://i.ytimg.com/vi/PAd0_-SllgQ/maxresdefault.jpg",
     },
     {
       id: 2,
@@ -43,7 +43,7 @@ export default function ExerciseScreen() {
       duration: "20 min",
       level: "Principiante",
       category: "flexibility",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://yogateca.com/wp-content/uploads/2013/09/yoga-por-la-manana.jpg",
     },
     {
       id: 3,
@@ -51,7 +51,7 @@ export default function ExerciseScreen() {
       duration: "40 min",
       level: "Avanzado",
       category: "strength",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://www.sportlife.es/uploads/s1/76/33/56/4/article-duracion-optima-entrenamiento-fuerza-5900c8e5d7bbf.jpeg",
     },
     {
       id: 4,
@@ -59,7 +59,7 @@ export default function ExerciseScreen() {
       duration: "30 min",
       level: "Intermedio",
       category: "flexibility",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://ik.imagekit.io/02fmeo4exvw/expert-articles/2017/05/2017-05-11-pilates-ball-core-strengthening-workout-pilates-roll-up.png",
     },
   ]
 
@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
   },
   workoutImage: {
     width: 100,
-    height: 100,
+    height: 130,
   },
   workoutDetails: {
     padding: 12,

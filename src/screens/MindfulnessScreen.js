@@ -36,7 +36,7 @@ export default function MindfulnessScreen() {
       duration: "10 min",
       category: "meditation",
       instructor: "María López",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://psiconecta.org/wp-content/uploads/2019/11/2887075.jpg",
     },
     {
       id: 2,
@@ -44,7 +44,7 @@ export default function MindfulnessScreen() {
       duration: "5 min",
       category: "breathing",
       instructor: "Carlos Ruiz",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://wblog.paraiso-peru.com/wp-content/uploads/2022/12/tecnica-respiracion-4-7-8.jpg",
     },
     {
       id: 3,
@@ -52,7 +52,7 @@ export default function MindfulnessScreen() {
       duration: "45 min",
       category: "sleep",
       instructor: "Ana Martínez",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://medicaloptica.es/blog/wp-content/uploads/2019/12/Sonidos-relajantes-para-dormir-Medical-Optica-Audicion.jpeg",
     },
     {
       id: 4,
@@ -60,7 +60,7 @@ export default function MindfulnessScreen() {
       duration: "15 min",
       category: "meditation",
       instructor: "Pablo Sánchez",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://www.yogaone.es/blog/wp-content/uploads/2023/11/Screenshot-2023-11-14-at-10.29.27-720x380.png",
     },
   ]
 
@@ -226,7 +226,7 @@ const styles = StyleSheet.create({
   },
   sessionImage: {
     width: 100,
-    height: 100,
+    height: 135,
   },
   sessionDetails: {
     padding: 12,

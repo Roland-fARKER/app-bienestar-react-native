@@ -26,16 +26,16 @@ export default function ProfileScreen() {
         },
       ],
     },
-    {
-      title: "Preferencias",
-      items: [
-        {
-          icon: "moon-outline",
-          label: "Modo Oscuro",
-          isToggle: true,
-        },
-      ],
-    },
+    // {
+    //   title: "Preferencias",
+    //   items: [
+    //     {
+    //       icon: "moon-outline",
+    //       label: "Modo Oscuro",
+    //       isToggle: true,
+    //     },
+    //   ],
+    // },
     {
       title: "Sesión",
       items: [

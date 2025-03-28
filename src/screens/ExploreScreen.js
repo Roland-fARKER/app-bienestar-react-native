@@ -43,21 +43,21 @@ export default function ExploreScreen() {
       title: "Cómo mejorar tu sueño con hábitos saludables",
       category: "Sueño",
       readTime: "5 min",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamfxPYMf0cGXlB00pDgzOevN2oOj-FT0hfQ&s",
     },
     {
       id: 2,
       title: "Recetas saludables para aumentar tu energía",
       category: "Nutrición",
       readTime: "8 min",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://hips.hearstapps.com/hmg-prod/images/bowl-de-salmon-ahumado-patata-y-aguacate-menus-energia-cuarentena-1585414962.jpg?resize=980:*",
     },
     {
       id: 3,
       title: "Ejercicios de 10 minutos para hacer en casa",
       category: "Ejercicio",
       readTime: "4 min",
-      image: "https://via.placeholder.com/300x150",
+      image: "https://i.ytimg.com/vi/5yjDNw0QWAA/hqdefault.jpg",
     },
   ]
 
@@ -66,13 +66,13 @@ export default function ExploreScreen() {
       id: 1,
       title: "Reto de 30 días de meditación",
       participants: 1245,
-      image: "https://via.placeholder.com/300x150",
+      image: "https://i.ytimg.com/vi/Kjk41ivryqQ/maxresdefault.jpg",
     },
     {
       id: 2,
       title: "Reto de hidratación: 8 vasos al día",
       participants: 3567,
-      image: "https://via.placeholder.com/300x150",
+      image: "https://files.pucp.education/puntoedu/wp-content/uploads/2021/01/23083219/agua-hidratacion-01-01.png",
     },
   ]
 
