@@ -19,7 +19,7 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>App Bienestar</Text>
+        <Text style={styles.headerTitle}>App Bienestar movil</Text>
         <TouchableOpacity style={styles.menuButton}>
           <Ionicons name="menu-outline" size={24} color="#94a3b8" />
         </TouchableOpacity>
